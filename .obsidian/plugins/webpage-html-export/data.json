@@ -10,8 +10,11 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/Users/ajimenez/Documents/vaults/sennoma/_docs",
-    "filesToExport": [],
+    "exportPath": "/Users/ajimenez/Documents/vaults/sennoma/docs",
+    "filesToExport": [
+      "Reference",
+      "PROJECT SENNOMA.md"
+    ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
     "addMathjaxStyles": true,
@@ -224,7 +227,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",

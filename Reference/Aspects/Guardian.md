@@ -9,8 +9,8 @@
 **Skills: Control, Endurance, Presence, Survival**
 
 **Sample Integrations:**
-- *Towering physique and heavy footsteps. Grinding gears and hissing hydraulics.
-- *Bulky handholds, buckles, and straps. Hooks and clamps for hauling.*
+*Towering physique and heavy footsteps. Grinding gears and hissing hydraulics.*
+*Bulky handholds, buckles, and straps. Hooks and clamps for hauling.*
 
 # Ability Tree
 
