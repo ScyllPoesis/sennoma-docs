@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sennoma]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>sennoma</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 30 Oct 2025 11:37:44 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 30 Oct 2025 11:37:35 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[PROJECT SENNOMA]]></title><description><![CDATA[
+Ten thousand years ago Humanity destroyed their Gods and scavenged their corpses for parts. They built a civilization of magic and technology so grand that it was doomed to fall. Seven Ages of Humanity, Seven Collapses. The Last, knowing they were unable to resist the momentum of their forebears, devoted their great machinations to the construction of an edifice that would be able to destroy their own hubris and ambition, and thereby grant them their salvation.
+The Monolith is all that lasts of their legacy, an ever-growing pillar of steel, silicon, and thread, watching over the broken remnants of their solar system. Inside, pockets of life carve out a myriad of imagined purposes amidst a chaotic web of colorful and sterile planes.&nbsp;
+Another Pod awakens. A handful of synthetic life forms once created by the Monolith stir, known only as the Nameless. This may not be their first Cycle, and this may not be their last. They believe they know their mission, and they believe they know themselves.&nbsp;
+But belief did not save Humanity.
+Welcome to the playtest for SENNOMA, a science-fiction+fantasy TTRPG about finding purpose and living life in a world that seems to have continued past death. In this game you and a group of fellow players will play as Nameless, synthetic lifeforms long ago created by the enigmatic and omnipotent machine god known as the Monolith, but now serving out your own eternal loops of sentience. Amidst the myriad Layers of the Monolith exist a thousand ecosystems and a million enclaves, varying from thick bioluminescent jungles to cities powered by steam. The Remnants, the parts of Humanity that stole away and continue to thrive within this metal being, form the bulk of the populace still alive within the various Layers. Alongside them are flora and fauna defying description, roaming the Monolith unchecked and unseen. Many elements of this system are loving homages or references to classic science fiction novels and manga, and it is in many ways intended to emulate the intricately awe-inspiring and ultimately-heroic elements of those journeys.SENNOMA as a game tries to highlight the key decision-making aspects and moment-to-moment gameplay of tactical TTRPGs, while keeping a clean, action-packed, and cinematic tone. It is powered by a d6 pool dice engine and a dual-skill check system that allows GMs to be more granular in the proficiencies they wish to test, as well as a Zone-based positioning system that removes the need for counting tiles while still allowing for dynamic action and tense decisions. The Nameless are eternal, but not immortal, and characters in this system leverage a multi-layered health and energy system that gives nuance and flavor to armored combat and the exhaustion that a conflict brings. The Nameless themselves will steadily grow their skills each session while periodically incorporating parts of modular class kits into their abilities, and will likewise build an arsenal of cinematic and self-created weapons and gear that are equally customizable. All of these rules serve to handle not only simple firefights and massive swarms, but any of the conflicts and challenges that the Nameless may face.]]></description><link>project-sennoma.html</link><guid isPermaLink="false">PROJECT SENNOMA.md</guid><pubDate>Thu, 30 Oct 2025 11:32:42 GMT</pubDate></item><item><title><![CDATA[Guardian]]></title><description><![CDATA[
+You endure where others fall.
+You pick through the salvage of what Remains, and carry the burdens of your Pod.
+Your shell will continue on long after your flame has blown out.
+Affinities: FORCE / EGO
+Role: Protector
+Skills: Control, Endurance, Presence, SurvivalSample Integrations:
+*Towering physique and heavy footsteps. Grinding gears and hissing hydraulics.
+Bulky handholds, buckles, and straps. Hooks and clamps for hauling.
+Upon gaining this ability, add a mechanic called Strain to your character sheet with two checkboxes, representing your current and maximum Strain. Strain is a representation of the physical and mental burden you take on as you travel the Monolith and fulfill your missions. While you have any amount of Strain, you are consider Strained. The maximum amount of Strain you can bear without faltering starts at 2 when you first Integrate this Aspect. Whenever you would end your turn with your Strain at its limit, you must make a Strain Shock Test:
+Make a Basic Test. On a Fail you gain the Shaken and Slowed conditions for 1 Round, and you then reduce your Strain by 1. If you would ever gain Strain while at your limit, you immediately make a Strain Shock Test instead.As you proceed through this Aspect you may find various means of using, gaining, and reducing Strain. To start, you gain the Bear the Burden and Lessen the Burden actions:
+Bear the Burden | Reaction | 1 VP | Aspect, Guardian
+TRIGGER: An Ally within Near Range would Fail a Check.
+You gain 1 Strain. Then, the target character may reroll the Check. This is a Rewind effect. Lessen the Burden | Downtime | 1 T | Aspect, Guardian
+You reduce your Strain by 1. The world may weigh on your shoulders, but not even that shall slow you down.
+Motivated Locomotion | Passive
+You gain a bonus to your Speed equal to your current Strain.Unstoppable Charge | Main | 2 AP | Aspect, Guardian, Move
+Required: Not Engaged
+You build momentum and carry forward in a surge of force, bearing your burdens down upon the enemy. You gain 1 Strain. You then Stride up to a number of Zones equal to your current Strain, and must Stride through at least one Zone. You then make an Area Melee Attack against a number of Foes in each Zone you moved through, using the following Attack Bar: Athletics + Endurance | 2, IMP (3) | Area (X), X equals twice your current Strain.
+If your Shell is Metallic or Warded, the attack also gains the Crushing Trait.Endless Charge | Passive
+Chain: Unstoppable Charge
+Whenever you use the Unstoppable Charge action, you may choose not to gain any Strain.Tireless Journey | Passive
+You increase your Maximum Strain by 1 and reduce your Speed by 2.Step Forward | Passive
+Chain: Tireless Journey
+Whenever you use the Bear the Burden action, the target Ally may instead choose to Succeed with an Impact of 0. It still remains a Rewind effect.Familial Respite | Passive
+Chain: Tireless Journey
+Whenever you Lessen the Burden while in the company of Ally Nameless, you may instead reduce your Strain by 2.
+Your burdens only serve as proof of what you can endure, and how tall you now stand.
+Pain on Purpose | Passive
+Whenever you Suffer Damage while Strained, you may make a Basic Test. On a Pass, you regain VP equal to 2 plus your current Strain.Built Different | Passive
+Chain: Pain on Purpose
+Whenever you make any Shock Test, that test is upgraded by one level.Brutal Distraction | Passive
+Chain: Pain on Purpose
+You increase your Maximum Strain by 1, but now lose 1 VP whenever you gain Strain.Towering Form | Passive
+Chain: Pain on Purpose
+Your size increases to Large, if it is not already. While you are Strained, you are immune to physical involuntary movement effects, such as Push or Pull effects, and you gain (+1 ADV) on all Interact or Obstacle Checks involving Aspect Skills.Indomitable Defense | Reaction | 1 VP | Aspect, Guardian
+TRIGGER: You are targeted by an Attack.
+You gain 1 Strain. Until the attack is resolved you gain a bonus to your EXT Defense equal to your Strain.Monolith's Vigor | Main | 3 AP | Aspect, Guardian
+Chain: Indomitable Defense
+You gain 1 Strain. Then, you roll a Presence+Survival Check at DT4, gaining (+X ADV) where X equals your Strain:
+: C. Success: You gain VP equal to 2 plus double your Strain.
+: Success: You gain VP equal to 2 plus your Strain.
+: Failure: You gain no VP.Selfless Service | Passive
+Whenever you Assist an Ally in a physical Check involving Aspect Skills, you may choose to gain 1 Strain to automatically gain a C. Success result on your Assist check.
+You are a shield borne before all of the horrors of this broken and beautiful world.
+Shield Warden | Passive
+If you don't already have a Shield weapon in your Arsenal, you gain one now. Otherwise, you gain a PCU locked to that weapon. You passively gain the following benefits while you have a Shield equipped:
+Your Shield's BD and Speed are increased by 1.
+The Protect action no longer costs any AP.
+Perfect Block | Passive
+Chain: Shield Warden
+Whenever you use the Shield Brace action while Strained, you may make a Basic Test. On a Pass your shield avoids becoming Damaged or Broken.Onyxheart | Passive
+Chain: Shield Warden
+Your shield is akin to an extension of your own body. Choose a Shield weapon in your Arsenal; it gains the Onyxheart's Shield Property. Onyxheart's Shield | Arsenal Property | Boon
+This weapon's IMP-Cap is increased by 2, and its BD and Speed are increased by 1. Additionally, when used to Intimidate, Trip, or Shove, you gain (+1 ADV).
+Sentinel | Passive
+Whenever you Intercept you gain (+X ADV) on the Speed contest, where X is equal to twice your current Strain. If you Prevail or Tie, you also gain the Bracing condition until end of round. Lash Out | Reaction | 1 VP | Aspect, Guardian
+TRIGGER: You become Shaken or Slowed.
+You may immediately Stride or Strike once as a Free Action.Never Falter | Passive
+Chain: Lash Out
+Whenever you Stride or Strike as a Free Action or Reaction while Strained, gain (+1 ADV) on any related Checks.You have incorporated the essence of a protector and warden within your very soul, and no longer feel the weight of responsibility as a pressure. Instead, it has transformed into a source of power that you may cast forth to both help and harm.Upon integrating this capstone you gain the following passive effects: Your Maximum Strain and EXT Defense are permanently raised by 1.
+You are now considered Strained even when your current Strain is 0.
+Whenever you target an Ally with a Guardian action, you may choose to gain or lose 1 Strain before resolving the action.
+]]></description><link>reference/aspects/guardian.html</link><guid isPermaLink="false">Reference/Aspects/Guardian.md</guid><pubDate>Wed, 29 Oct 2025 18:44:25 GMT</pubDate></item></channel></rss>

@@ -1,0 +1,8 @@
+
+.DS_Store
+/Old Drafts/
+/.trash
+
+# Ignore volatile UI-related state
+.obsidian/workspace.json
+.obsidian/app.json
