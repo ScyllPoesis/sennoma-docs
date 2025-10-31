@@ -5,5 +5,8 @@
   "obsidian-excalidraw-plugin",
   "webpage-html-export",
   "terminal",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "file-explorer-plus",
+  "templater-obsidian"
 ]

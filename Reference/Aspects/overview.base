@@ -1,0 +1,16 @@
+filters:
+  and:
+    - type == "Aspect"
+    - file.folder != "_templates"
+views:
+  - type: cards
+    name: Aspects
+    order:
+      - file.name
+      - role
+      - affinity
+      - skills
+    columnSize:
+      note.role: 91
+    rowHeight: medium
+    cardSize: 300

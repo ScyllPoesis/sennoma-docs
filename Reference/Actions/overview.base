@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.folder == "Reference/Actions"
+    - type.containsAny("Action")
+properties:
+  note.actionType:
+    displayName: Type
+views:
+  - type: table
+    name: All Actions
+    order:
+      - file.name
+      - actionType
+      - cost
+      - traits
+      - file.backlinks
+      - file.links
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+    columnSize:
+      note.actionType: 131
+      note.cost: 72
+      note.traits: 131

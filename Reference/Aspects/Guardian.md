@@ -1,7 +1,18 @@
+---
+type: Aspect
+affinity:
+  - FORCE
+  - EGO
+role: Protector
+skills:
+  - Control
+  - Endurance
+  - Presence
+  - Survival
+---
 > *You endure where others fall.* 
 > *You pick through the salvage of what Remains, and carry the burdens of your Pod.* 
 > *Your shell will continue on long after your flame has blown out.*
-
 # Overview
 
 **Affinities: FORCE / EGO**
